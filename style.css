@@ -1,0 +1,71 @@
+* {
+    font-family: Lato;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .GrumpyPants {
+    color: black;
+    padding: 10px 0px 0px 140px 
+  }
+  
+  .Adrian {
+  color: gray;
+  padding: 2px 0px 0px 135px;
+  font-size: smaller
+  }
+  
+  .fouronetwo {
+    color:gray;
+    padding: 2px 0px 0px 128px;
+    font-size: smaller
+  }
+  
+  .Summary {
+    margin: 50px 0px 5px 10px
+  }
+  
+  .Iama {
+    margin: 0px 0px 30px 10px
+  }
+  
+  .Education {
+    margin: 0px 0px 5px 10px
+  }
+  
+  .Botswana {
+    padding: 0px 0px 2px 10px;
+    font-size: small
+  }
+  
+  
+    .Botswana {
+      font-size: small;
+      color: black
+    }
+  
+  
+  .Winners {
+    padding: 0px 0px 30px 10px;
+    font-size: small
+  }
+  
+  .Experience {
+    margin: 0px 0px 5px 10px 
+  }
+  
+  .PizzaHut {
+    margin: 0px 0px 0px 10px
+  }
+  
+  .Iworkedday {
+    margin: 0px 0px 30px 10px
+  }
+  
+  .Skillsand {
+    margin: 0px 0px 5px 10px 
+  }
+  
+  .Teamplayer {
+    padding: 0px 0px 30px 10px
+  }
