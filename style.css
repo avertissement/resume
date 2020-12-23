@@ -2,39 +2,149 @@
     font-family: Lato;
     margin: 0;
     padding: 0;
-  }
-  
-  .GrumpyPants {
-    color: black;
-    padding: 10px 0px 0px 140px 
-  }
-  
-  .Adrian {
-  color: gray;
-  padding: 2px 0px 0px 135px;
-  font-size: smaller
-  }
-  
-  .fouronetwo {
-    color:gray;
-    padding: 2px 0px 0px 128px;
+}
+
+  @media only screen and (min-width: 500px) {
+    .GrumpyPants {
+      color: black;
+      padding: 10px 0px 0px 140px 
+    }
+    
+    .Adrian {
+    color: gray;
+    padding: 2px 0px 0px 135px;
     font-size: smaller
-  }
+    }
+    
+    .fouronetwo {
+      color:gray;
+      padding: 2px 0px 0px 128px;
+      font-size: smaller
+    }
+    
+    .Categories {
+      margin: 20px 0px 5px 10px
+    }
+    
+    .Words {
+      margin: 0px 0px 30px 10px;
+    }
+    
   
-  .Categories {
-    margin: 20px 0px 5px 10px
-  }
+    .Botswana {
+      margin: 0px 0px 2.5px 10px;
+    }
   
-  .Words {
-    margin: 0px 0px 30px 10px;
-  }
+    .PizzaHut {
+      margin: 0px 0px 0px 10px
+    }
 
-  .Botswana {
-    margin: 0px 0px 2.5px 10px;
-  }
+    @media only screen and (min-width: 768px) {
+      .GrumpyPants {
+        color: black;
+        padding: 10px 0px 0px 275px 
+      }
+      
+      .Adrian {
+      color: gray;
+      padding: 2px 0px 0px 268px;
+      font-size: smaller
+      }
+      
+      .fouronetwo {
+        color:gray;
+        padding: 2px 0px 0px 262px;
+        font-size: smaller
+      }
+      
+      .Categories {
+        margin: 20px 0px 5px 10px
+      }
+      
+      .Words {
+        margin: 0px 0px 30px 10px;
+      }
+      
+    
+      .Botswana {
+        margin: 0px 0px 2.5px 10px;
+      }
+    
+      .PizzaHut {
+        margin: 0px 0px 0px 10px
+      }
+    }
 
-  .PizzaHut {
-    margin: 0px 0px 0px 10px
-  }
-  
- 
+      @media only screen and (min-width: 992px) {
+        .GrumpyPants {
+          color: black;
+          padding: 10px 0px 0px 400px 
+        }
+        
+        .Adrian {
+        color: gray;
+        padding: 2px 0px 0px 392px;
+        font-size: smaller
+        }
+        
+        .fouronetwo {
+          color:gray;
+          padding: 2px 0px 0px 386px;
+          font-size: smaller
+        }
+        
+        .Categories {
+          margin: 20px 0px 5px 10px
+        }
+        
+        .Words {
+          margin: 0px 400px 30px 10px;
+        }
+        
+      
+        .Botswana {
+          margin: 0px 0px 2.5px 10px;
+        }
+      
+        .PizzaHut {
+          margin: 0px 0px 0px 10px
+        }
+      }
+
+      @media only screen and (min-width: 1200px) {
+        .GrumpyPants {
+          color: black;
+          padding: 10px 0px 0px 500px 
+        }
+        
+        .Adrian {
+        color: gray;
+        padding: 2px 0px 0px 492px;
+        font-size: smaller
+        }
+        
+        .fouronetwo {
+          color:gray;
+          padding: 2px 0px 0px 486px;
+          font-size: smaller
+        }
+        
+        .Categories {
+          margin: 20px 0px 5px 10px
+        }
+        
+        .Words {
+          margin: 0px 500px 30px 10px;
+        }
+        
+      
+        .Botswana {
+          margin: 0px 0px 2.5px 10px;
+        }
+      
+        .PizzaHut {
+          margin: 0px 0px 0px 10px
+        }
+      }
+
+      
