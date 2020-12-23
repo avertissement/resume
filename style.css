@@ -21,51 +21,20 @@
     font-size: smaller
   }
   
-  .Summary {
-    margin: 50px 0px 5px 10px
+  .Categories {
+    margin: 20px 0px 5px 10px
   }
   
-  .Iama {
-    margin: 0px 0px 30px 10px
+  .Words {
+    margin: 0px 0px 30px 10px;
   }
-  
-  .Education {
-    margin: 0px 0px 5px 10px
-  }
-  
+
   .Botswana {
-    padding: 0px 0px 2px 10px;
-    font-size: small
+    margin: 0px 0px 2.5px 10px;
   }
-  
-  
-    .Botswana {
-      font-size: small;
-      color: black
-    }
-  
-  
-  .Winners {
-    padding: 0px 0px 30px 10px;
-    font-size: small
-  }
-  
-  .Experience {
-    margin: 0px 0px 5px 10px 
-  }
-  
+
   .PizzaHut {
     margin: 0px 0px 0px 10px
   }
   
-  .Iworkedday {
-    margin: 0px 0px 30px 10px
-  }
-  
-  .Skillsand {
-    margin: 0px 0px 5px 10px 
-  }
-  
-  .Teamplayer {
-    padding: 0px 0px 30px 10px
-  }
+ 
