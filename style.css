@@ -39,6 +39,8 @@
       margin: 0px 0px 0px 10px
     }
 
+  }
+
     @media only screen and (min-width: 768px) {
       .GrumpyPants {
         color: black;
