@@ -1,152 +1,56 @@
 * {
-    font-family: Lato;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
 }
 
-  @media only screen and (min-width: 500px) {
-    .grumpy-pants {
-      color: black;
-      padding: 10px 0px 0px 140px 
-    }
-    
-    .adrian {
-    color: gray;
-    padding: 2px 0px 0px 135px;
-    font-size: smaller
-    }
-    
-    .four-one-two {
-      color:gray;
-      padding: 2px 0px 0px 128px;
-      font-size: smaller
-    }
-    
-    .categories {
-      margin: 20px 0px 5px 10px
-    }
-    
-    .words {
-      margin: 0px 0px 30px 10px;
-    }
-    
-  
-    .botswana {
-      margin: 0px 0px 2.5px 10px;
-    }
-  
-    .pizza-hut {
-      margin: 0px 0px 0px 10px
-    }
+footer {
+  background-color: #ccc;
+  bottom: 0;
+  padding: 30px 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
 
-  }
+h2 {
+  color: #333;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
 
-    @media only screen and (min-width: 768px) {
-      .grumpy-pants{
-        color: black;
-        padding: 10px 0px 0px 275px 
-      }
-      
-      .adrian {
-      color: gray;
-      padding: 2px 0px 0px 268px;
-      font-size: smaller
-      }
-      
-      .four-one-two {
-        color:gray;
-        padding: 2px 0px 0px 262px;
-        font-size: smaller
-      }
-      
-      .categories {
-        margin: 20px 0px 5px 10px
-      }
-      
-      .words {
-        margin: 0px 0px 30px 10px;
-      }
-      
-    
-      .botswana {
-        margin: 0px 0px 2.5px 10px;
-      }
-    
-      .pizza-hut {
-        margin: 0px 0px 0px 10px
-      }
-    }
+h3 {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
 
-      @media only screen and (min-width: 992px) {
-        .grumpy-pants {
-          color: black;
-          padding: 10px 0px 0px 400px 
-        }
-        
-        .adrian {
-        color: gray;
-        padding: 2px 0px 0px 392px;
-        font-size: smaller
-        }
-        
-        .four-one-two {
-          color:gray;
-          padding: 2px 0px 0px 386px;
-          font-size: smaller
-        }
-        
-        .categories {
-          margin: 20px 0px 5px 10px
-        }
-        
-        .words {
-          margin: 0px 400px 30px 10px;
-        }
-        
-      
-        .botswana {
-          margin: 0px 0px 2.5px 10px;
-        }
-      
-        .pizza-hut {
-          margin: 0px 0px 0px 10px
-        }
-      }
+header {
+  margin-bottom: 30px;
+  text-align: center;
+}
 
-      @media only screen and (min-width: 1200px) {
-        .grumpy-pants {
-          color: black;
-          padding: 10px 0px 0px 500px 
-        }
-        
-        .adrian {
-        color: gray;
-        padding: 2px 0px 0px 492px;
-        font-size: smaller
-        }
-        
-        .four-one-two {
-          color:gray;
-          padding: 2px 0px 0px 486px;
-          font-size: smaller
-        }
-        
-        .categories {
-          margin: 20px 0px 5px 10px
-        }
-        
-        .words {
-          margin: 0px 500px 30px 10px;
-        }
-        
-      
-        .botswana {
-          margin: 0px 0px 2.5px 10px;
-        }
-      
-        .pizza-hut{
-          margin: 0px 0px 0px 10px
-        }
-      }
+li {
+  margin: 4px 0;
+}
 
-      
+ul {
+  list-style-type: none;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.container__subcontainer {
+  padding-left: 20px;
+}
+
+.no-top-margin {
+  margin-top: 0;
+}
+
+.y-wrap {
+  margin: 0 auto;
+  max-width: 694px;
+  width: 90%;
+}
