@@ -5,12 +5,12 @@
 }
 
   @media only screen and (min-width: 500px) {
-    .GrumpyPants {
+    .grumpy-pants {
       color: black;
       padding: 10px 0px 0px 140px 
     }
     
-    .Adrian {
+    .adrian {
     color: gray;
     padding: 2px 0px 0px 135px;
     font-size: smaller
@@ -22,32 +22,32 @@
       font-size: smaller
     }
     
-    .Categories {
+    .categories {
       margin: 20px 0px 5px 10px
     }
     
-    .Words {
+    .words {
       margin: 0px 0px 30px 10px;
     }
     
   
-    .Botswana {
+    .botswana {
       margin: 0px 0px 2.5px 10px;
     }
   
-    .PizzaHut {
+    .pizza-hut {
       margin: 0px 0px 0px 10px
     }
 
   }
 
     @media only screen and (min-width: 768px) {
-      .GrumpyPants {
+      .grumpy-pants{
         color: black;
         padding: 10px 0px 0px 275px 
       }
       
-      .Adrian {
+      .adrian {
       color: gray;
       padding: 2px 0px 0px 268px;
       font-size: smaller
@@ -59,31 +59,31 @@
         font-size: smaller
       }
       
-      .Categories {
+      .categories {
         margin: 20px 0px 5px 10px
       }
       
-      .Words {
+      .words {
         margin: 0px 0px 30px 10px;
       }
       
     
-      .Botswana {
+      .botswana {
         margin: 0px 0px 2.5px 10px;
       }
     
-      .PizzaHut {
+      .pizza-hut {
         margin: 0px 0px 0px 10px
       }
     }
 
       @media only screen and (min-width: 992px) {
-        .GrumpyPants {
+        .grumpy-pants {
           color: black;
           padding: 10px 0px 0px 400px 
         }
         
-        .Adrian {
+        .adrian {
         color: gray;
         padding: 2px 0px 0px 392px;
         font-size: smaller
@@ -95,31 +95,31 @@
           font-size: smaller
         }
         
-        .Categories {
+        .categories {
           margin: 20px 0px 5px 10px
         }
         
-        .Words {
+        .words {
           margin: 0px 400px 30px 10px;
         }
         
       
-        .Botswana {
+        .botswana {
           margin: 0px 0px 2.5px 10px;
         }
       
-        .PizzaHut {
+        .pizza-hut {
           margin: 0px 0px 0px 10px
         }
       }
 
       @media only screen and (min-width: 1200px) {
-        .GrumpyPants {
+        .grumpy-pants {
           color: black;
           padding: 10px 0px 0px 500px 
         }
         
-        .Adrian {
+        .adrian {
         color: gray;
         padding: 2px 0px 0px 492px;
         font-size: smaller
@@ -131,20 +131,20 @@
           font-size: smaller
         }
         
-        .Categories {
+        .categories {
           margin: 20px 0px 5px 10px
         }
         
-        .Words {
+        .words {
           margin: 0px 500px 30px 10px;
         }
         
       
-        .Botswana {
+        .botswana {
           margin: 0px 0px 2.5px 10px;
         }
       
-        .PizzaHut {
+        .pizza-hut{
           margin: 0px 0px 0px 10px
         }
       }
